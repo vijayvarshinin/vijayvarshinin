@@ -1,9 +1,9 @@
 # Hi, I am Vijay Varshini
-I am a Software Engineer with 3 years of work experience. I have a Masters degree in Artificial Intelligence and a Bachelors degree in Computer Science. I am into building new products that create an impact. 
+I am an Data Analyst with 3 years of work experience. I have a Masters degree in Artificial Intelligence and a Bachelors degree in Computer Science. I am into building new products that create an impact. 
 
 ## ABOUT ME
 - I love writing code to develop web applications.
-- Recently, I am into game development and I am learning C++ deeply.
+- Recently, I am into autonomous driving and I am interested in research areas such as NLP, AI, LLMs, Causal NLP and Autonomous Driving.
 - I have experience with building dashboards (Power BI/Tableau) - and data analysis using Python.
 - Besides work, I love spending time watching movies, reading books and sleeping.
 
